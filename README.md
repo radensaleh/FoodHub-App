@@ -15,9 +15,13 @@
 *  Schedule Notification
 *  Dark Mode Theme
 
+## Quick start
+This is a normal flutter app. You should follow the instructions in the [official documentation](https://flutter.io/docs/get-started/install). This project takes UI Design reference from [dribble](https://dribbble.com/shots/16383941-Food-Delivery-App-UI-kit-FoodHub).
+
 ## Banner Design
 <pre>
 <img src="assets/banner-dark-theme.png">
+
 <img src="assets/banner-light-theme.png">
 </pre>
 
